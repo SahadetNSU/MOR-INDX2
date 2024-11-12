@@ -1,0 +1,77 @@
+Data_N_12000
+
+s1 = 
+
+     Type: 'twister'
+     Seed: 0
+    State: [625x1 uint32]
+
+
+s2 = 
+
+     Type: 'twister'
+     Seed: 0
+    State: [625x1 uint32]
+
+Smith_N_12000
+normalized residual norms for controllability and observability Gramians
+step: 1 normalized residual: 1.007307e-01
+step: 1  normalized residual: 9.160416e-02
+step:    2  normalized residual: 1.313112e-02
+step:    2  normalized residual: 3.027158e-02
+step:    3  normalized residual: 1.532528e-03
+step:    3  normalized residual: 6.539167e-03
+step:    4  normalized residual: 3.919143e-04
+step:    4  normalized residual: 1.001417e-03
+step:    5  normalized residual: 9.544623e-05
+step:    5  normalized residual: 1.587809e-04
+step:    6  normalized residual: 1.834550e-05
+step:    6  normalized residual: 3.633748e-05
+step:    7  normalized residual: 3.295268e-06
+step:    7  normalized residual: 9.025126e-06
+step:    8  normalized residual: 6.779805e-07
+step:    8  normalized residual: 1.853336e-06
+step:    9  normalized residual: 1.602240e-07
+step:    9  normalized residual: 3.338681e-07
+step:   10  normalized residual: 3.441358e-08
+step:   10  normalized residual: 7.120039e-08
+step:   11  normalized residual: 7.000575e-09
+step:   11  normalized residual: 1.785351e-08
+step:   12  normalized residual: 1.532803e-09
+step:   12  normalized residual: 4.160837e-09
+step:   13  normalized residual: 3.779188e-10
+step:   13  normalized residual: 8.741916e-10
+step:   14  normalized residual: 8.961519e-11
+step:   14  normalized residual: 1.943267e-10
+step:   15  normalized residual: 1.982592e-11
+step:   15  normalized residual: 4.810444e-11
+step:   16  normalized residual: 4.444931e-12
+step:   16  normalized residual: 1.177418e-11
+step:   17  normalized residual: 1.074810e-12
+step:   17  normalized residual: 2.646344e-12
+step:   18  normalized residual: 2.598445e-13
+step:   18  normalized residual: 6.013261e-13
+step:   19  normalized residual: 6.043508e-14
+step:   19  normalized residual: 1.468381e-13
+step:   20  normalized residual: 1.441719e-14
+step:   20  normalized residual: 3.649110e-14
+Elapsed time is 1173.378061 seconds.
+Smith_CONVRG_N_12000
+
+ns =
+
+    20
+
+
+nr =
+
+    20
+
+BT_N_12000
+
+Reduced_model_dimension =
+
+    11
+
+TFS_N_12000
+diary off

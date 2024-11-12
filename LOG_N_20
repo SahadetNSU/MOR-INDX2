@@ -1,0 +1,34 @@
+Data_N_20
+Smith_N_20
+normalized residual norms for controllability and observability Gramians
+step: 1 normalized residual: 2.364325e-02
+step: 1  normalized residual: 3.268685e-02
+step:    2  normalized residual: 1.107122e-03
+step:    2  normalized residual: 1.822868e-03
+step:    3  normalized residual: 6.760753e-05
+step:    3  normalized residual: 1.248513e-04
+step:    4  normalized residual: 4.746640e-06
+step:    4  normalized residual: 9.399396e-06
+step:    5  normalized residual: 3.583852e-07
+step:    5  normalized residual: 7.369861e-07
+step:    6  normalized residual: 2.807706e-08
+step:    6  normalized residual: 5.883884e-08
+step:    7  normalized residual: 2.240826e-09
+step:    7  normalized residual: 4.738167e-09
+step:    8  normalized residual: 1.805061e-10
+step:    8  normalized residual: 3.832272e-10
+Elapsed time is 0.023939 seconds.
+Smith_CONVRG_N_20
+
+ns =
+
+     8
+
+
+nr =
+
+     8
+
+BT_N_20
+TFS_N_20
+diary off
