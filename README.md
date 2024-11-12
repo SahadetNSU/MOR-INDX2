@@ -1,4 +1,4 @@
-# MOR_INDX2
+# MOR-INDX2
 MATLAB codes Structure-preserving model reduction approach for structured index-2 descriptor-systems. 
 MATLAB codes Structure-preserving model reduction approach for structured index-2 descriptor-systems. 
 The directory contains MATLAB codes for two model problems; one has the dimension N=20, and the other has the dimension N=12000. 
